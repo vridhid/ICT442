@@ -5,3 +5,9 @@
 
 Course description cited from: 
 https://conted.ucalgary.ca/search/publicCourseSearchDetails.do?method=load&courseId=4430275
+
+Assessment 1: Write a loop: 16 / 16 - A+
+
+Assessment 2: Write a function: 16 / 16 - A+
+
+Assessment 3: Sum the values: 16 / 16 - A+
