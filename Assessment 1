@@ -1,13 +1,15 @@
-Assessment 1: Write a loop to increment a variable by 1 
- (20%)
+Assessment 1: Write a loop to increment a variable by 1 (20%)
 
 Due: June 4th, 2019
 
-Students will have to write a loop in JavaScript on an html page that will output the incremented value of a variable by 1 each iteration, up until a pre-determined value limit.
+Students will have to write a loop in JavaScript on an html page that will output the 
+incremented value of a variable by 1 each iteration, up until a pre-determined value limit.
 
 Instructions
 
-Using an HTML file, use the <script> block at the top of the page to write a loop that will increment the numeric value of a pre-defined variable by one every iteration, and then stop at a specific point, ending the loop.
+Using an HTML file, use the <script> block at the top of the page to write a loop that will
+increment the numeric value of a pre-defined variable by one every iteration, and then stop 
+at a specific point, ending the loop.
 
 Please refer to the rubric at the end of this document for evaluation details.
 
