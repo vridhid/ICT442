@@ -1,0 +1,39 @@
+<html> 
+<head>
+<title> Assessment 1 </title>
+</head>
+
+<!--- Name: Vridhi Dubey --> 
+
+<body>
+	<script type = "text/javascript">
+
+		var start_number = 0;			// loop starts at 0
+		var max_number = 50;			// loop cannot exceed 50
+		var increment_number = 5;		// loop will be incremented by 5
+
+		// For loop starts
+		// Initialized to start_number which is 0 
+		// Condition is set to prevent loop from exceeding the max_number which is 50
+		// Execution allows loop to increase by the increment_number which is 5
+
+	for (let index = start_number; index <= max_number; index += increment_number) {
+    	console.table(index);				// console prints value of index as it goes through the loop until the condition is no longer being met
+}
+
+	/* WEB BROWSER PRINTS THE FOLLOWING:
+	jsdemo.html:19 5
+	jsdemo.html:19 10
+	jsdemo.html:19 15
+	jsdemo.html:19 20
+	jsdemo.html:19 25
+	jsdemo.html:19 30
+	jsdemo.html:19 35
+	jsdemo.html:19 40
+	jsdemo.html:19 45
+	jsdemo.html:19 50
+	*/
+
+	</script>
+</body>
+</html>
