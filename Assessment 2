@@ -1,0 +1,23 @@
+Assessment 2: Write a function to return a value (25%)
+
+Due: June 11th, 2019
+
+Students will have to write a function to accept a parameter, and return 
+a value based on the contents of the parameter sent in.
+
+Instructions
+
+Using an HTML file, use the <script> block at the top of the page to write a 
+function that will evaluate the incoming parameter and return a different value
+based on that parameter.
+
+Please refer to the rubric at the end of this document for evaluation details.
+
+Requirements
+•	Function and variables should be named something meaningful
+•	The evaluation of the parameter coming in and its resulting value should make 
+sense 
+•	Receive the returned value on a line of JavaScript outside of the function
+
+Submission
+•	Upload to D2L Dropbox folder labeled “Assessment 2: Write a Function” 
